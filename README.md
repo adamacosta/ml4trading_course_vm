@@ -1,4 +1,4 @@
-# ml4trading_course_vm
+# ML 4 Trading Course VM
 
 To use, clone the repo, then enter in the terminal:
 
@@ -28,4 +28,5 @@ ssh -L 7777:localhost:7777 vagrant@192.168.33.10
 ```
 
 Use the password `vagrant`. Now open up a web browser on your machine and navigate 
-to [localhost:7777](localhost:7777). Create a notebook and begin using IPython.
+to [localhost:7777](http://localhost:7777). Create a notebook and begin using 
+IPython.
